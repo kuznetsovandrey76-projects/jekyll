@@ -11,7 +11,7 @@ collections:
 email: and.rey.q@yandex.ru
 description: Welocome to wiki page.
 baseurl: jekyll
-url: https://kuznetsovandrey76.github.io/
+url: http://kuznetsovandrey76.ru/
 github_username: kuznetsovandrey76
 markdown: kramdown
 theme: minima
