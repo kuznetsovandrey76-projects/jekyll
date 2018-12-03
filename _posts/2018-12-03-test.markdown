@@ -6,6 +6,6 @@ layout: post
 
 ![logo.png](/uploads/logo.png)  
 ![logo.png](assets/logo.png)  
-<img src="/images/logo.jpg" alt="sinatra with a tux" width="180" height="240"/>
+<img src="/assets/logo.jpg" alt="sinatra with a tux" width="180" height="240"/>
 ![qwe](https://www.webhostwhat.com/wp-content/uploads/Host-Jekyll-Blog-514x300.jpg)
 Hello from siteleaf
