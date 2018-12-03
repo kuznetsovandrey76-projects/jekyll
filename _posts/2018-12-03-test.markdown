@@ -4,7 +4,8 @@ date: 2018-12-03 06:00:00 Z
 layout: post
 ---
 
-![logo](https://raw.githubusercontent.com/kuznetsovandrey76/jekyll/master/images/logo.png)  
+<!-- ![logo](https://raw.githubusercontent.com/kuznetsovandrey76/jekyll/master/images/logo.png)   -->
 <img src="https://raw.githubusercontent.com/kuznetsovandrey76/jekyll/master/images/logo.png" alt="logo"/>
+<img src="/images/logo.png" alt="logo"/>
 
 Hello from siteleaf
