@@ -1,11 +1,10 @@
 ---
 title: Test
-date: 2018-12-03 05:33:00 Z
+date: 2018-12-03 06:00:00 Z
 layout: post
 ---
 
-![logo.png](/uploads/logo.png)  
-![logo.png](https://raw.githubusercontent.com/kuznetsovandrey76/jekyll/master/assets/logo.png)  
-<img src="/assets/logo.png" alt="sinatra with a tux" width="180" height="240"/>
-![qwe](https://www.webhostwhat.com/wp-content/uploads/Host-Jekyll-Blog-514x300.jpg)
+![logo](https://raw.githubusercontent.com/kuznetsovandrey76/jekyll/master/images/logo.png)  
+<img src="https://raw.githubusercontent.com/kuznetsovandrey76/jekyll/master/images/logo.png" alt="logo"/>
+
 Hello from siteleaf
